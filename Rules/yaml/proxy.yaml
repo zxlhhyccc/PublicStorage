@@ -12,6 +12,8 @@ payload:
     - DOMAIN-SUFFIX,git.io
     - DOMAIN-SUFFIX,opensubtitles.org
     - DOMAIN-SUFFIX,crate.io
+    - DOMAIN-SUFFIX,python.org
+    - DOMAIN-SUFFIX,globalsign.com
 
 #Google
     - DOMAIN-KEYWORD,google

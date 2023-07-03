@@ -3,3 +3,8 @@ payload:
     - DOMAIN-SUFFIX,bilibili.com
     - DOMAIN-SUFFIX,bilibili.tv
     - DOMAIN-SUFFIX,b23.tv
+    - DOMAIN-SUFFIX,qq.com  
+    - DOMAIN-SUFFIX,10086.cn
+    - DOMAIN-SUFFIX,mi.com
+    - DOMAIN-SUFFIX,xiaomi.com
+    - DOMAIN-SUFFIX,tencentmusic.com
