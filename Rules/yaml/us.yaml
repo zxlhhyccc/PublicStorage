@@ -1,0 +1,8 @@
+payload:
+    - DOMAIN-SUFFIX,intercom.io
+    - DOMAIN-SUFFIX,statsigapi.net
+    - DOMAIN-SUFFIX,sentry.io
+    - DOMAIN-SUFFIX,intercomcdn.com
+    - DOMAIN-SUFFIX,featuregates.org
+    - DOMAIN-SUFFIX,openai.com
+    - DOMAIN-SUFFIX,intellij.net

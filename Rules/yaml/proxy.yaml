@@ -1,0 +1,43 @@
+payload:
+#走代理
+
+#服务器相关
+    - DOMAIN-SUFFIX,debian.org
+    - DOMAIN-SUFFIX,jellyfin.org
+    - DOMAIN-SUFFIX,github.com
+    - DOMAIN-SUFFIX,githubusercontent.com
+    - DOMAIN-SUFFIX,docker.com
+    - DOMAIN-SUFFIX,ghcr.io
+    - DOMAIN-SUFFIX,pages.dev
+    - DOMAIN-SUFFIX,git.io
+    - DOMAIN-SUFFIX,opensubtitles.org
+    - DOMAIN-SUFFIX,crate.io
+
+#Google
+    - DOMAIN-KEYWORD,google
+    - DOMAIN-KEYWORD,youtube
+    - DOMAIN-KEYWORD,gstatic
+
+#twitter
+    - DOMAIN-SUFFIX,twitter.com
+
+#Ms
+    - DOMAIN-SUFFIX,bing.com
+    - DOMAIN-SUFFIX,msftconnecttest.com
+    - DOMAIN-SUFFIX,msftncsi.com
+    - DOMAIN-SUFFIX,bing.net
+    - DOMAIN-SUFFIX,msn.cn
+    - DOMAIN-SUFFIX,msn.com
+    - DOMAIN-KEYWORD,microsoft
+    - DOMAIN-KEYWORD,scorecardresearch.com
+    - DOMAIN-KEYWORD,gfx.ms
+    - DOMAIN-SUFFIX,live.com
+
+#media
+    - DOMAIN-KEYWORD,deepl
+    - DOMAIN-KEYWORD,javdb
+    - DOMAIN-SUFFIX,bgm.tv
+    - DOMAIN-SUFFIX,tmdb.org
+    - DOMAIN-SUFFIX,omdbapi.com
+    - DOMAIN-SUFFIX,themoviedb.org
+    - DOMAIN,u2.dmhy.org
