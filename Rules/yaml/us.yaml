@@ -7,5 +7,3 @@ payload:
     - DOMAIN-SUFFIX,openai.com
     - DOMAIN-SUFFIX,intellij.net
     - DOMAIN,bard.google.com
-    - DOMAIN-KEYWORD,grazie
-    - DOMAIN-KEYWORD,jetbrains
