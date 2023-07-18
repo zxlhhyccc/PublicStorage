@@ -45,7 +45,6 @@ payload:
 #media
     - DOMAIN-KEYWORD,deepl
     - DOMAIN-KEYWORD,javdb
-    - DOMAIN-SUFFIX,bgm.tv
     - DOMAIN-SUFFIX,tmdb.org
     - DOMAIN-SUFFIX,omdbapi.com
     - DOMAIN-SUFFIX,themoviedb.org
