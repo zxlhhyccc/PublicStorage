@@ -6,4 +6,4 @@ mkdir /root/.ssh
 
 curl "https://raw.githubusercontent.com/TnZzZHlp/PublicStorage/main/SSH/authorized_keys" -o "/root/.ssh/authorized_keys"
 
-service sshd restart
+systemctl restart sshd
